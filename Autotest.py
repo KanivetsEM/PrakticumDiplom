@@ -10,7 +10,3 @@ def test_get_order_by_number():
 
     # Проверка, что код ответа равен 200
     assert data_order.status_code == 200
-
-
-if __name__ == "__main__":
-    test_get_order_by_number()
