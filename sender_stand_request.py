@@ -1,3 +1,5 @@
+# Канивец Евгения, 15-я когорта — Финальный проект. Инженер по тестированию плюс
+
 import configuration
 import requests
 import data
