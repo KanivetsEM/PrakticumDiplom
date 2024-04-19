@@ -20,5 +20,5 @@ def get_order_by_number(track_number):
 def test_get_order_by_number():
     data_order = get_order_by_number(track_number)
     
-    # Проверяем, что код ответа равен 200
-    assert data_order.status_code == 200
+# Проверяем, что код ответа равен 200
+assert data_order.status_code == 200
